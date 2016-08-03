@@ -1,1 +1,1 @@
-# CS-frameworks-platforms
+# IT-Frameworks-Platforms
